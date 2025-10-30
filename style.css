@@ -1,0 +1,71 @@
+#h{
+    background-color: mediumblue;
+    color:aliceblue;
+    text-align: center;
+    width: 100vw;
+    height : 20vh;
+
+}
+#m{
+    padding-top: 2vh
+}
+a{
+    color :aliceblue;
+}
+.y:hover{
+    color: red;
+    font-size : 35px;
+}
+
+.pr{
+    background-color: rgb(5, 5, 251);
+    color:#ffffff;
+    height:18vh;
+    width: 100vw;
+    padding-top: 4px;
+}
+.o{
+    color: black;
+}
+
+body{
+    text-align: center;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0%;
+    position: relative;
+}
+#a{
+    background-color: red;
+    color: white;
+    width: 100vw;
+}
+#pp{
+    font-size: larger;
+    font-family: "monoterrat";
+}
+#table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.tt{
+    font-size: bolder;
+}
+#th{
+    background-color:red;
+    font-size: larger;
+    color:#ffffff
+}
+#la{
+    position: absolute;
+    bottom: 20px;
+    right :20px;
+    z-index :10000;
+    background-color: blue;
+    padding: 10px 15px;
+    display: inline-block;
+
+
+}
