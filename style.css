@@ -30,9 +30,6 @@ a{
 
 body{
     text-align: center;
-    display : flex;
-    flex-direction: column;
-    align-items: center;
     margin: 0%;
     position: relative;
 }
@@ -50,6 +47,11 @@ body{
     margin-right: auto;
     
 }
+#table2{
+    margin-left: auto;
+    margin-right: auto;
+
+}
 .tt{
     font-size: bolder;
 }
@@ -65,7 +67,5 @@ body{
     z-index :10000;
     background-color: blue;
     padding: 10px 15px;
-    display: inline-block;
-
-
 }
+
